@@ -1,0 +1,92 @@
+.body1{background-image: url(imagini/Food-NAZ-Lens-of-Alex-015.jpg);
+    background-size: 100%;}
+
+.body2{background-image: url(imagini/image2.jpg);
+    background-size: 100%;}
+
+.body3{background-image: url(imagini/4167971_stock-photo-cocoa-cacao-beans-with-chocolate.jpg);
+ background-size: 100%;}
+
+
+.ol1{list-style-type: none;}
+
+.a1{text-decoration: none;color: rgb(0, 128, 0) ;
+    font-family: 'Julee', cursive;}
+
+.li1{display: inline-block;
+    font-size:20px ;width: 200px;
+    color: white;}
+
+.li1:hover{background-color: rgb(153, 205, 50);}
+
+.li2{display: inline-block;margin-left: 100px;}
+
+.li2:hover{background-color: rgba(0, 128, 0, 0.74);
+    width: 100px;}
+
+.a2{color: rgb(255, 166, 0);}
+
+.meniu{position: absolute;right: 1px;top: 20px;}
+
+.meniu1{right: 1px;top: 20px;
+    list-style-type: none;
+    display: inline-block;
+    position: sticky;top: 0;}
+
+.logo{margin-top: 50px; margin-left: 130px;}
+
+.logo1{border: 5px;color: brown;}
+
+.text1{margin-top: 350px; 
+    width: 70%;
+    background-color: rgba(245, 222, 179, 0.555);
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Alfa Slab One', cursive;
+    color: white;}
+
+.text2{width: 70%;
+    background-color: rgba(245, 222, 179, 0.543);
+    float: right;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Alfa Slab One', cursive;
+    color: white;}
+
+.cover{border-radius: 50%;}
+.etapa2{color: rgb(245, 222, 179);font-size: 20px;padding-bottom: 100px;}
+.etapa3{float: left;width: 200px;padding-right: 20px;}
+.etapa4{float: left;width: 200px;padding-right: 20px;}
+.p1{font-size: 15px;background-color: rgba(245, 222, 179, 0.543);max-height: 30%;color: white; padding-left: 10px;font-family: 'Julee', cursive; }
+.p2{padding-right: 15px; padding-left: 15px; font-size: 15px; background-color: rgba(245, 222, 179, 0.425); color: white;font-family: 'Julee', cursive;}
+.p3{font-size: 15px;background-color: rgba(245, 222, 179, 0.402);color:white;padding-left: 15px;padding-right: 10px; font-family: 'Julee', cursive;}
+.p4{font-size: 15px;background-color: rgba(245, 222, 179, 0.543);color: white;padding-left:  15px;padding-right: 10px;font-family: 'Julee', cursive;}
+.ol2{list-style-type: circle;/}
+.titlu{margin-left: 250px;margin-top: 60px;}
+.prajitura1{height: 320px;padding-left: 20px;width: 600px; }
+.tort{width: 500px;border-radius: 10%;}
+.prajitura2{width:600px;height: 340px;padding-left: 20px;}
+.ol3{margin-right: 50px; padding: 5px; list-style-type: none;}
+.praline1{width: 500px;}
+.praline2{width: 500px;height: 350px;}
+.praline3{width: 400px;height: 350px;}
+.ol4{list-style-type: none;}
+.a3{text-decoration: none;color: orange;}
+.li3{display: inline-block;font-size: 30px;width: 200px;color: green;margin-left: 200px;}
+.li3:hover{background-color: rgba(0, 128, 0, 0.89);}
+h1{color: rgba(0, 128, 0, 0.89); margin-top: 150px;font-family: 'Julee', cursive;}
+.h1-1{background-color: rgba(218, 165, 32, 0.495);width: 25%;margin-left: 20px;padding-left: 50px;font-size: 50px;border-radius: 10%;text-decoration: underline coral; text-shadow: 50%;}
+.h2-1{color: rgb(245, 222, 179); font-size: 20px;padding-top: 50px;font-family: 'Pacifico', cursive;}
+.li4{color: rgb(255, 255, 255);font-family: 'Julee', cursive;}
+.h2-2{color: rgb(245, 222, 179);font-size: 20px;padding-bottom: 50px;font-family: 'Prompt', sans-serif;}
+span{margin-bottom: 45px}
+.h2-3{font-size: 20px;font-family: 'Prompt', sans-serif;}
+.h2-4{font-size: 20px;font-family: 'Prompt', sans-serif;}
+.h2-5{font-size: 20px;font-family: 'Prompt', sans-serif;}
+.div1{color: blue;}
+.div2{color: blue;}
+.div5-2{display: inline-block;}
